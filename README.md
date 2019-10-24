@@ -1,12 +1,9 @@
 # test-repo
 
 Everyday challenges make me want to take action. 
-For example today is a new day and I need to get the following things done to be productive.
-1. Clean dad's toilet.  
-3. Put in a load to wash.
+For example today is a new day and I need to get the following things done to be productive.  
 4. Clean mom's room.
 5. Return shoes and got to Macy's.
-6. Buy plates at Hobby Lobby.
 7. Look up jobs from the past two weeks.
 8. Organize jobs from pay, position, organization, distance, culture, ratings.
 10. Text Raul for tonight. 
